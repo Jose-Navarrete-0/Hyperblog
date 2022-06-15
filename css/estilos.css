@@ -8,6 +8,21 @@ body
     padding: 0;
 }
 
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
+
+}
+
 #cabecera
 {
     background-color: #33A;
@@ -25,17 +40,3 @@ body
     font-size: 0.8em;
 }
 
-#container
-{
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid #ddd;
-    margin: 0 auto;
-}
-
-#container h1
-{
-    font-size: 20px;
-
-}
